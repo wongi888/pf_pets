@@ -38,7 +38,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "/index", method = RequestMethod.GET)
 	public void index(Locale locale, Model model) {
-		
+		  
 	
 	}
 	
